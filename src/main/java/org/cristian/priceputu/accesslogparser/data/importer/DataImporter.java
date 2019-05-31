@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
-import org.cristian.priceputu.accesslogparser.parsers.LogEntry;
+import org.cristian.priceputu.accesslogparser.model.LogEntry;
 import org.cristian.priceputu.accesslogparser.parsers.LogParser;
 import org.cristian.priceputu.accesslogparser.persistence.LogEntryRepository;
 import org.springframework.beans.factory.annotation.Autowired;

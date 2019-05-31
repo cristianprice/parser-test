@@ -10,7 +10,7 @@ import java.util.UUID;
 
 import javax.annotation.PostConstruct;
 
-import org.cristian.priceputu.accesslogparser.parsers.LogEntry;
+import org.cristian.priceputu.accesslogparser.model.LogEntry;
 import org.cristian.priceputu.accesslogparser.utils.Pair;
 import org.joda.time.DateTime;
 import org.slf4j.Logger;

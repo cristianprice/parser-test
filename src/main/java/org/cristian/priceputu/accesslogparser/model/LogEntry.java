@@ -1,4 +1,4 @@
-package org.cristian.priceputu.accesslogparser.parsers;
+package org.cristian.priceputu.accesslogparser.model;
 
 import java.util.Date;
 
